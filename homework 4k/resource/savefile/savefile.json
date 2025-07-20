@@ -1,0 +1,19 @@
+{
+    "last" : 
+    {
+        "last_select_number" : 1 ,
+        "last_select_sort" : "difficulty" ,
+        "last_select_difficulty" : "advanced"
+    } ,
+
+    "record" :
+    {
+        "1" :
+        {
+            "high_score" : 0 ,
+            "high_grade" : ""  ,
+            "fc" : 0 ,
+            "ap" : 0
+        }
+    }
+}

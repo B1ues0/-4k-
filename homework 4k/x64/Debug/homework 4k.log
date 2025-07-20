@@ -1,0 +1,4 @@
+﻿  start.cpp
+C:\Users\goodp\Desktop\homework 4k\homework 4k\start.cpp(133,22): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\goodp\Desktop\homework 4k\homework 4k\start.cpp(134,22): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  homework 4k.vcxproj -> C:\Users\goodp\Desktop\homework 4k\x64\Debug\homework 4k.exe
